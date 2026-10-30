@@ -1,61 +1,24 @@
-15:45:14 36 posts need photos; doing up to 60
-15:45:16 source page https://www.finextra.com/newsarticle/48674/hackers-steal-63b: HTTP Error 403: Forbidden
-15:45:17 source page https://www.finextra.com/newsarticle/48674/hackers-steal-63b: HTTP Error 403: Forbidden
-15:46:03 search 'Binance': The read operation timed out
-15:46:46 search 'Binance headquarters office': The read operation timed out
-15:47:30 search 'Binance crypto exchange building': The read operation timed out
-15:48:14 breaking-a-breach-of-the-foundations-at-binance | gave up after 180s; retry next run
-15:48:15 source page https://www.finextra.com/newsarticle/48670/bofe-consults-on-: HTTP Error 403: Forbidden
-15:48:15 source page https://www.finextra.com/newsarticle/48668/cibc-rolls-out-th: HTTP Error 403: Forbidden
-15:48:16 source page https://www.finextra.com/newsarticle/48670/bofe-consults-on-: HTTP Error 403: Forbidden
-15:48:16 source page https://www.finextra.com/newsarticle/48668/cibc-rolls-out-th: HTTP Error 403: Forbidden
-15:49:30 search 'Thought Machine software interface': The read operation timed out
-15:50:14 search 'Thought Machine headquarters London': The read operation timed out
-15:50:59 search 'London skyline': The read operation timed out
-15:51:14 uk-tokenised-collateral-and-the-end-of-the-t-settlement | gave up after 180s; retry next run
-15:52:05 search '300mm gallium nitride wafer Infineon': The read operation timed out
-15:52:51 search 'gallium nitride 300mm wafer semiconductor': The read operation timed out
-15:53:35 search 'Infineon headquarters Villach Austria': The read operation timed out
-15:54:14 eu-europe-builds-the-hardware-for-a-sovereign-decade | gave up after 180s; retry next run
-15:55:03 search 'Google data center server infrastructure TPU': The read operation timed out
-15:55:47 search 'Google Cloud AI data center hardware': The read operation timed out
-15:56:32 search 'Alphabet Inc headquarters Mountain View': The read operation timed out
-15:57:14 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | gave up after 180s; retry next run
-15:57:55 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:57:55 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:58:27 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:58:27 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:59:10 search 'HM Treasury budget 2026 AI package': The read operation timed out
-15:59:54 search 'UK government AI security budget announcement': The read operation timed out
-16:00:14 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-16:01:06 search 'Apple MacBook Pro OLED touchscreen': The read operation timed out
-16:01:49 search 'MacBook Pro PROLED XDR Display': The read operation timed out
-16:02:34 search 'Apple Park Cupertino headquarters': The read operation timed out
-16:03:14 breaking-apple-touchscreen-macbook-pro | gave up after 180s; retry next run
-16:04:00 search 'Abu Dhabi Executive Council meeting AI': The read operation timed out
-16:05:01 search 'Abu Dhabi Executive Council headquarters building': The read operation timed out
-16:05:45 search 'Abu Dhabi Executive Office building': The read operation timed out
-16:06:14 uae-abu-dhabi-ai-executive-council | gave up after 180s; retry next run
-16:07:01 search 'FLEX satellite ESA': The read operation timed out
-16:07:44 search 'FLuorescence Explorer satellite model': The read operation timed out
-16:08:29 search 'FLEX and Sentinel-3C Vega-C': The read operation timed out
-16:09:14 eu-flex-satellite-kaiko-series-b | gave up after 180s; retry next run
-16:10:02 search 'Velocity stablecoin settlement rails': The read operation timed out
-16:10:37 search 'Velocity payment infrastructure product': HTTP Error 500: Internal Server Error
-16:11:21 search 'Velocity London office headquarters': The read operation timed out
-16:12:14 uk-velocity-stablecoin-series-a | gave up after 180s; retry next run
-16:13:36 search 'Googleplex headquarters Mountain View California': The read operation timed out
-16:14:19 search 'San Francisco skyline': The read operation timed out
-16:15:03 search 'Silicon Valley': The read operation timed out
-16:15:07 usa-google-gemini-live-voice-agents | Gemini 3.8 Live | tried: [('source', 6.0, 10.0)]
-16:15:08 ok usa-google-gemini-live-voice-agents | cited source image | Lead image from latenode.com | Image from cited source
-16:16:04 search 'Abu Dhabi AI campus UAE': The read operation timed out
-16:17:23 search 'G42 headquarters Abu Dhabi': The read operation timed out
-16:18:06 search 'Group 42 office Abu Dhabi': The read operation timed out
-16:18:08 uae-rethinks-5gw-ai-campus | gave up after 180s; retry next run
-16:18:56 search 'Apple iPhone Duo foldable phone': The read operation timed out
-16:19:40 search 'iPhone Duo smartphone': The read operation timed out
-16:20:22 search 'Apple Park Cupertino headquarters': The read operation timed out
-16:21:05 search 'San Francisco skyline': The read operation timed out
-16:21:08 usa-apple-iphone-duo-foldable | gave up after 180s; retry next run
-16:21:08 time budget reached; the rest continue next run
+19:24:44 35 posts need photos; doing up to 12
+19:24:45 source page https://www.finextra.com/newsarticle/48674/hackers-steal-63b: HTTP Error 403: Forbidden
+19:24:46 source page https://www.finextra.com/newsarticle/48674/hackers-steal-63b: HTTP Error 403: Forbidden
+19:25:32 search 'Binance': The read operation timed out
+19:26:16 search 'Binance headquarters office building': The read operation timed out
+19:27:38 search 'Dubai skyline': The read operation timed out
+19:27:44 breaking-a-breach-of-the-foundations-at-binance | gave up after 180s; retry next run
+19:27:45 source page https://www.finextra.com/newsarticle/48670/bofe-consults-on-: HTTP Error 403: Forbidden
+19:27:45 source page https://www.finextra.com/newsarticle/48668/cibc-rolls-out-th: HTTP Error 403: Forbidden
+19:27:45 source page https://www.finextra.com/newsarticle/48670/bofe-consults-on-: HTTP Error 403: Forbidden
+19:27:46 source page https://www.finextra.com/newsarticle/48668/cibc-rolls-out-th: HTTP Error 403: Forbidden
+19:28:29 search 'Thought Machine VaultCore core banking platform': The read operation timed out
+19:29:13 search 'Thought Machine core platform UI': The read operation timed out
+19:30:02 search 'Thought Machine office': The read operation timed out
+19:30:44 uk-tokenised-collateral-and-the-end-of-the-t-settlement | gave up after 180s; retry next run
+19:31:30 search 'Infineon 300mm gallium nitride wafer Villach': The read operation timed out
+19:32:14 search 'gallium nitride 300mm semiconductor wafer': The read operation timed out
+19:33:28 search 'Brussels European Quarter': The read operation timed out
+19:33:44 eu-europe-builds-the-hardware-for-a-sovereign-decade | gave up after 180s; retry next run
+19:34:29 search 'Google data center AI infrastructure': The read operation timed out
+19:35:24 search 'Googleplex headquarters Mountain View': The read operation timed out
+19:36:08 search 'Alphabet Inc headquarters building': The read operation timed out
+19:36:44 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | gave up after 180s; retry next run
+19:36:44 time budget reached; the rest continue next run
