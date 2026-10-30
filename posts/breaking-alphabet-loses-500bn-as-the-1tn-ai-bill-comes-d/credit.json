@@ -1,12 +1,13 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Google Data Center, The Dalles.jpg",
- "author": "Visitor7",
+ "title": "Google Campus, Mountain View, CA.jpg",
+ "author": "Austin McKinley",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Google_Data_Center,_The_Dalles.jpg",
- "query": "Google data center servers",
- "camera": "NIKON CORPORATION NIKON D3100",
- "score": 7.0
+ "license": "CC BY 3.0",
+ "license_url": "https://creativecommons.org/licenses/by/3.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Google_Campus,_Mountain_View,_CA.jpg",
+ "query": "Googleplex Mountain View",
+ "camera": "Canon Canon EOS 6D",
+ "quality": 8.0,
+ "relevance": 9.0
 }

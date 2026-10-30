@@ -1,12 +1,13 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Aerial view of Apple Park dllu.jpg",
- "author": "Daniel L. Lu (user:dllu)",
+ "title": "Apple MacBook Pro 16\" M2Max.jpg",
+ "author": "SimonWaldherr",
  "author_url": "",
  "license": "CC BY-SA 4.0",
  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Apple_Park_dllu.jpg",
- "query": "Apple Park Cupertino",
- "camera": "SONY ILCE-7RM2",
- "score": 9.0
+ "source_url": "https://commons.wikimedia.org/wiki/File:Apple_MacBook_Pro_16%22_M2Max.jpg",
+ "query": "Apple MacBook Pro",
+ "camera": "NIKON CORPORATION NIKON Z 6",
+ "quality": 9.0,
+ "relevance": 8.0
 }
