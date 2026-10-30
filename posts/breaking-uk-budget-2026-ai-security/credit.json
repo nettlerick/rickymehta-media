@@ -1,10 +1,12 @@
 {
  "provider": "Wikimedia Commons",
- "title": "BalticServers data center.jpg",
- "author": "BalticServers.com",
+ "title": "Schrauben, Muttern und Unterlegscheiben -- 2020 -- 4150 (bw).jpg",
+ "author": "Dietmar Rabich",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:BalticServers_data_center.jpg",
- "query": "data center servers"
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Schrauben,_Muttern_und_Unterlegscheiben_--_2020_--_4150_(bw).jpg",
+ "query": "Artificial intelligence hardware",
+ "camera": "Canon Canon EOS 5D Mark IV",
+ "score": 8.0
 }

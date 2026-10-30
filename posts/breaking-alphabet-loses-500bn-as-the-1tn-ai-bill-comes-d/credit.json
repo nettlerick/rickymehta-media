@@ -1,10 +1,12 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Googleplex HQ (cropped).jpg",
- "author": "Asoundd",
+ "title": "Google Data Center, The Dalles.jpg",
+ "author": "Visitor7",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Googleplex_HQ_(cropped).jpg",
- "query": "Googleplex Mountain View"
+ "license": "CC BY-SA 3.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Google_Data_Center,_The_Dalles.jpg",
+ "query": "Google data center servers",
+ "camera": "NIKON CORPORATION NIKON D3100",
+ "score": 7.0
 }
