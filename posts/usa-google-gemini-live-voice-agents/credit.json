@@ -1,13 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896.jpg",
- "author": "Dietmar Rabich",
+ "provider": "latenode.com",
+ "title": "Lead image from latenode.com",
+ "author": "Latenode",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Schild_--_2022_--_2896.jpg",
- "query": "Googleplex",
- "camera": "Canon Canon EOS 5D Mark IV",
- "quality": 8.0,
- "relevance": 9.0
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://latenode.com/news/google-rolls-out-gemini-3-8-live-as-pricing-and-preview-status-stay-murky",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 10.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://latenode.com/img/proxy?url=https%3A%2F%2Fblog-static.latenode.com%2Flatenode-strapi-blog%2FGoogle_Rolls_Out_Gemini_3_8_Live_as_Pricing_and_Preview_Status_Stay_Murky_c626906631.png&w=1200&h=630"
 }
