@@ -1,10 +1,13 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Abu Dhabi - Corniche – Skyline - الكورنيش - الأفق - panoramio.jpg",
- "author": "giggel",
+ "title": "Abu Dhabi Skyline from Breakwaters Marina.jpg",
+ "author": "Raganesh",
  "author_url": "",
- "license": "CC BY 3.0",
- "license_url": "https://creativecommons.org/licenses/by/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_-_Corniche_%E2%80%93_Skyline_-_%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%86%D9%8A%D8%B4_-_%D8%A7%D9%84%D8%A3%D9%81%D9%82_-_panoramio.jpg",
- "query": "Abu Dhabi skyline"
+ "license": "CC BY-SA 3.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_from_Breakwaters_Marina.jpg",
+ "query": "Abu Dhabi skyline",
+ "camera": "SONY SLT-A77V",
+ "quality": 7.0,
+ "relevance": 5.0
 }

@@ -1,10 +1,13 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Google Campus2 cropped.jpg",
- "author": "Sebastian Bergmann",
+ "title": "Mountain View (CA, USA), Charleston Road, Google-Schild -- 2022 -- 2896.jpg",
+ "author": "Dietmar Rabich",
  "author_url": "",
- "license": "CC BY-SA 2.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Google_Campus2_cropped.jpg",
- "query": "Googleplex"
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Schild_--_2022_--_2896.jpg",
+ "query": "Googleplex",
+ "camera": "Canon Canon EOS 5D Mark IV",
+ "quality": 8.0,
+ "relevance": 9.0
 }
