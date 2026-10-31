@@ -1,20 +1,19 @@
-15:24:46 32 posts need photos; doing up to 12
-15:25:33 search 'Anduril Bluechip laptop': The read operation timed out
-15:26:17 search 'Anduril rugged laptop Qualcomm': The read operation timed out
-15:27:01 search 'Anduril Industries headquarters Costa Mesa': The read operation timed out
-15:27:45 search 'San Francisco skyline': The read operation timed out
-15:27:46 usa-the-us-builds-a-wall-around-its-hardware-supply-chai | gave up after 180s; retry next run
-15:29:13 search 'Alphabet data center facility': The read operation timed out
-15:29:57 search 'Googleplex headquarters Mountain View': The read operation timed out
-15:30:41 search 'Alphabet Inc headquarters exterior': The read operation timed out
-15:30:46 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | gave up after 180s; retry next run
-15:31:20 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:31:20 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:31:52 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:31:52 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:32:36 search 'Healey Budget': The read operation timed out
-15:33:33 search 'HM Treasury 1 Horse Guards Road': The read operation timed out
-15:33:46 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-15:36:06 search 'Abu Dhabi Executive Council building': The read operation timed out
-15:36:46 uae-abu-dhabi-ai-executive-council | gave up after 180s; retry next run
-15:36:46 time budget reached; the rest continue next run
+19:24:49 32 posts need photos; doing up to 12
+19:25:35 search 'Anduril BlueChip laptop Qualcomm': The read operation timed out
+19:26:18 search 'Anduril sovereign laptop': The read operation timed out
+19:27:18 search 'San Francisco skyline': The read operation timed out
+19:27:49 usa-the-us-builds-a-wall-around-its-hardware-supply-chai | gave up after 180s; retry next run
+19:28:34 search 'Google data center server infrastructure': The read operation timed out
+19:29:35 search 'Googleplex headquarters Mountain View California': The read operation timed out
+19:30:18 search 'San Francisco skyline': The read operation timed out
+19:30:49 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | gave up after 180s; retry next run
+19:31:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:31:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:31:54 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:31:54 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:33:48 search 'HM Treasury headquarters London': The read operation timed out
+19:33:49 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
+19:35:16 search 'Abu Dhabi Executive Council AI session': The read operation timed out
+19:36:45 search 'Abu Dhabi Government building': The read operation timed out
+19:36:49 uae-abu-dhabi-ai-executive-council | gave up after 180s; retry next run
+19:36:49 time budget reached; the rest continue next run
