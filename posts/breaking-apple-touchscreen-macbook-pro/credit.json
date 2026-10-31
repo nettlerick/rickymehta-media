@@ -1,13 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Apple MacBook Pro 16\" M2Max.jpg",
- "author": "SimonWaldherr",
+ "provider": "apple.com",
+ "title": "MacBook Pro OLED touchscreen (official press image)",
+ "author": "Apple",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Apple_MacBook_Pro_16%22_M2Max.jpg",
- "query": "Apple MacBook Pro",
- "camera": "NIKON CORPORATION NIKON Z 6",
- "quality": 9.0,
- "relevance": 8.0
+ "license": "Official press image",
+ "license_url": "",
+ "source_url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+ "query": "official press image",
+ "camera": "",
+ "quality": 10.0,
+ "relevance": 10.0,
+ "press": true,
+ "source_image": "",
+ "agency": "",
+ "key": "https://www.apple.com/newsroom/images/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/tile/Apple-MacBook-Pro-with-PROLED-XDR-Display-Touch-experience-261028-lp.jpg.og.jpg?202610302143"
 }
