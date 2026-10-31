@@ -1,13 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Bank of England Building, London, UK - Diliff.jpg",
- "author": "Diliff",
+ "title": "City of London skyline from London City Hall - Oct 2008 - Aligned.jpg",
+ "author": "David Illif with image-alignment and Photoshoping by User:Colin and Kim Hansen",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Bank_of_England_Building,_London,_UK_-_Diliff.jpg",
- "query": "Bank of England London",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg",
+ "query": "London skyline",
  "camera": "",
- "quality": 9.0,
- "relevance": 9.0
+ "quality": 8.0,
+ "relevance": 2.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:City_of_London_skyline_from_London_City_Hall_-_Oct_2008_-_Aligned.jpg"
 }

@@ -1,0 +1,17 @@
+{
+ "provider": "theguardian.com",
+ "title": "Lead image from theguardian.com",
+ "author": "theguardian.com",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 7.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e77e2ab765a410506488af7aa68d54f"
+}
