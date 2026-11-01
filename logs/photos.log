@@ -1,19 +1,24 @@
-19:24:49 32 posts need photos; doing up to 12
-19:25:35 search 'Anduril BlueChip laptop Qualcomm': The read operation timed out
-19:26:18 search 'Anduril sovereign laptop': The read operation timed out
-19:27:18 search 'San Francisco skyline': The read operation timed out
-19:27:49 usa-the-us-builds-a-wall-around-its-hardware-supply-chai | gave up after 180s; retry next run
-19:28:34 search 'Google data center server infrastructure': The read operation timed out
-19:29:35 search 'Googleplex headquarters Mountain View California': The read operation timed out
-19:30:18 search 'San Francisco skyline': The read operation timed out
-19:30:49 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | gave up after 180s; retry next run
-19:31:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-19:31:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-19:31:54 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-19:31:54 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-19:33:48 search 'HM Treasury headquarters London': The read operation timed out
-19:33:49 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-19:35:16 search 'Abu Dhabi Executive Council AI session': The read operation timed out
-19:36:45 search 'Abu Dhabi Government building': The read operation timed out
-19:36:49 uae-abu-dhabi-ai-executive-council | gave up after 180s; retry next run
-19:36:49 time budget reached; the rest continue next run
+07:24:15 33 posts need photos; doing up to 12
+07:26:02 search 'CNTXT AI headquarters UAE': The read operation timed out
+07:27:00 search 'Dubai skyline': The read operation timed out
+07:27:15 uae-the-uae-moves-from-digital-models-to-physical-ai-and | gave up after 180s; retry next run
+07:28:59 search 'San Francisco skyline': HTTP Error 500: Internal Server Error
+07:29:41 usa-the-us-builds-a-wall-around-its-hardware-supply-chai | Anduril BlueChip laptop | tried: [('source', 7.0, 10.0)]
+07:29:42 ok usa-the-us-builds-a-wall-around-its-hardware-supply-chai | cited source image | Lead image from techradar.com | Image from cited source
+07:31:53 search 'San Francisco skyline': The read operation timed out
+07:32:01 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | Google Cloud infrastructure | tried: [('source', 6.0, 5.0), ('company', 8.0, 5.0)]
+07:32:02 ok breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | Googleplex headquarters Mountain View California | Mountain View (CA, USA), Charleston Road, Google-Fahrräder - | CC BY-SA 4.0
+07:32:35 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+07:32:35 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+07:33:06 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+07:33:06 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+07:33:52 search 'UK budget announcement 2026 John Healey': HTTP Error 500: Internal Server Error
+07:34:42 search '1 Horse Guards Road London': The read operation timed out
+07:35:02 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
+07:35:53 uae-abu-dhabi-ai-executive-council | Abu Dhabi Executive Council AI platform | tried: [('source', 8.0, 10.0)]
+07:35:54 ok uae-abu-dhabi-ai-executive-council | cited source image | Lead image from middleeastainews.com | Image from cited source
+07:36:38 search 'FLEX satellite ESA': The read operation timed out
+07:37:22 search 'FLuorescence Explorer satellite': The read operation timed out
+07:38:22 search 'Brussels European Quarter': The read operation timed out
+07:38:54 eu-flex-satellite-kaiko-series-b | gave up after 180s; retry next run
+07:38:54 time budget reached; the rest continue next run
