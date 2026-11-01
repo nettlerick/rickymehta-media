@@ -1,31 +1,28 @@
-15:24:45 32 posts need photos; doing up to 12
-15:25:34 search 'CNTXT AI physical AI training facility': The read operation timed out
-15:26:18 uae-the-uae-moves-from-digital-models-to-physical-ai-and | CNTXT AI robotics data factory | tried: [('source', 6.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 8.0, 2.0)]
-15:26:19 ok uae-the-uae-moves-from-digital-models-to-physical-ai-and | Abu Dhabi skyline | Skyline of Abu Dhabi at sunset.jpg | CC BY 2.0
-15:26:51 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:26:51 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:27:24 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:27:24 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:28:15 search 'Apple Park Cupertino headquarters': The read operation timed out
-15:28:59 search 'Apple Infinite Loop campus': The read operation timed out
-15:29:19 october-2026-the-month-infrastructure-bills-came-due | gave up after 180s; retry next run
-15:29:20 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-15:29:22 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-15:30:06 search 'OriginOS 7 Jovi': The read operation timed out
-15:30:50 search 'OriginOS 7 software': The read operation timed out
-15:31:34 search 'Vivo Brazil headquarters Sao Paulo': The read operation timed out
-15:32:18 search 'São Paulo skyline': The read operation timed out
-15:32:19 latam-brazil-trades-tax-breaks-for-data-sovereignty | gave up after 180s; retry next run
-15:32:51 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:32:51 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:33:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-15:33:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-15:34:06 search 'Healey Budget': The read operation timed out
-15:34:50 search 'HM Treasury London headquarters building exterior': The read operation timed out
-15:35:19 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-15:36:05 search 'FLEX satellite ESA': The read operation timed out
-15:36:49 search 'FLEX satellite model Earth Explorer': The read operation timed out
-15:37:42 search 'ESTEC Noordwijk': The read operation timed out
-15:37:59 eu-flex-satellite-kaiko-series-b | FLEX satellite | tried: [('press', 8.0, 7.0), ('source', 6.0, 2.0), ('product', 9.0, 10.0)]
-15:38:00 ok eu-flex-satellite-kaiko-series-b | FLEX satellite ESA | ESA’s photosynthesis mission ESA515347.jpg | CC BY-SA 3.0 igo
-15:38:00 time budget reached; the rest continue next run
+19:24:55 30 posts need photos; doing up to 12
+19:25:18 source page https://portfolio-adviser.com/autumn-budget-2026-healey-unve: HTTP Error 429: Too Many Requests
+19:25:48 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:25:49 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:26:13 source page https://portfolio-adviser.com/autumn-budget-2026-healey-unve: HTTP Error 429: Too Many Requests
+19:26:43 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:26:43 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:27:27 search 'MacBook Pro PROLED XDR Display touchscreen': The read operation timed out
+19:27:55 october-2026-the-month-infrastructure-bills-came-due | gave up after 180s; retry next run
+19:27:56 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+19:27:58 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+19:28:54 search 'OriginOS 7 interface': The read operation timed out
+19:29:38 search 'Vivo Brazil headquarters Sao Paulo': The read operation timed out
+19:30:21 search 'Telefonica Brasil headquarters': The read operation timed out
+19:30:55 latam-brazil-trades-tax-breaks-for-data-sovereignty | gave up after 180s; retry next run
+19:31:28 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:31:28 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:32:00 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+19:32:00 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+19:32:43 search 'Healey Budget': The read operation timed out
+19:33:27 search 'HM Treasury London headquarters building': The read operation timed out
+19:33:55 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
+19:34:42 search 'Velocity stablecoin settlement rails payment infrastructure': The read operation timed out
+19:35:26 search 'Velocity Series A fintech London': The read operation timed out
+19:36:09 search 'Velocity London office headquarters': The read operation timed out
+19:36:53 search 'Velocity fintech company London': The read operation timed out
+19:36:55 uk-velocity-stablecoin-series-a | gave up after 180s; retry next run
+19:36:55 time budget reached; the rest continue next run
