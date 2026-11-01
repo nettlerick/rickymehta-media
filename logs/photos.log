@@ -1,26 +1,31 @@
-11:25:49 32 posts need photos; doing up to 12
-11:27:05 search 'CNTXT AI physical AI training facility': The read operation timed out
-11:27:51 search 'CNTXT AI office Dubai': The read operation timed out
-11:28:49 uae-the-uae-moves-from-digital-models-to-physical-ai-and | gave up after 180s; retry next run
-11:29:29 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-11:29:29 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-11:30:02 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-11:30:02 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-11:30:46 search 'MacBook Pro PROLED XDR Display touchscreen': The read operation timed out
-11:31:43 search 'Apple Park Cupertino headquarters': The read operation timed out
-11:31:49 october-2026-the-month-infrastructure-bills-came-due | gave up after 180s; retry next run
-11:31:50 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-11:31:52 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-11:32:37 search 'OriginOS 7 Jovi smartphone': The read operation timed out
-11:33:21 search 'OriginOS 7 interface': The read operation timed out
-11:34:05 search 'Vivo Brasil headquarters Sao Paulo': The read operation timed out
-11:34:49 search 'Vivo Brazil office building': The read operation timed out
-11:34:49 latam-brazil-trades-tax-breaks-for-data-sovereignty | gave up after 180s; retry next run
-11:35:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-11:35:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-11:35:54 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-11:35:54 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-11:36:37 search 'HM Treasury budget announcement AI security package': The read operation timed out
-11:37:21 search 'UK government AI security funding budget': The read operation timed out
-11:37:49 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-11:37:49 time budget reached; the rest continue next run
+15:24:45 32 posts need photos; doing up to 12
+15:25:34 search 'CNTXT AI physical AI training facility': The read operation timed out
+15:26:18 uae-the-uae-moves-from-digital-models-to-physical-ai-and | CNTXT AI robotics data factory | tried: [('source', 6.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 8.0, 2.0)]
+15:26:19 ok uae-the-uae-moves-from-digital-models-to-physical-ai-and | Abu Dhabi skyline | Skyline of Abu Dhabi at sunset.jpg | CC BY 2.0
+15:26:51 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+15:26:51 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+15:27:24 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+15:27:24 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+15:28:15 search 'Apple Park Cupertino headquarters': The read operation timed out
+15:28:59 search 'Apple Infinite Loop campus': The read operation timed out
+15:29:19 october-2026-the-month-infrastructure-bills-came-due | gave up after 180s; retry next run
+15:29:20 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+15:29:22 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+15:30:06 search 'OriginOS 7 Jovi': The read operation timed out
+15:30:50 search 'OriginOS 7 software': The read operation timed out
+15:31:34 search 'Vivo Brazil headquarters Sao Paulo': The read operation timed out
+15:32:18 search 'São Paulo skyline': The read operation timed out
+15:32:19 latam-brazil-trades-tax-breaks-for-data-sovereignty | gave up after 180s; retry next run
+15:32:51 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+15:32:51 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+15:33:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+15:33:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+15:34:06 search 'Healey Budget': The read operation timed out
+15:34:50 search 'HM Treasury London headquarters building exterior': The read operation timed out
+15:35:19 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
+15:36:05 search 'FLEX satellite ESA': The read operation timed out
+15:36:49 search 'FLEX satellite model Earth Explorer': The read operation timed out
+15:37:42 search 'ESTEC Noordwijk': The read operation timed out
+15:37:59 eu-flex-satellite-kaiko-series-b | FLEX satellite | tried: [('press', 8.0, 7.0), ('source', 6.0, 2.0), ('product', 9.0, 10.0)]
+15:38:00 ok eu-flex-satellite-kaiko-series-b | FLEX satellite ESA | ESA’s photosynthesis mission ESA515347.jpg | CC BY-SA 3.0 igo
+15:38:00 time budget reached; the rest continue next run
