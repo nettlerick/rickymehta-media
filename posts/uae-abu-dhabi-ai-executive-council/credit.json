@@ -1,13 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Abu Dhabi Skyline from Breakwaters Marina.jpg",
- "author": "Raganesh",
+ "provider": "middleeastainews.com",
+ "title": "Lead image from middleeastainews.com",
+ "author": "Middle East AI News",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Abu_Dhabi_Skyline_from_Breakwaters_Marina.jpg",
- "query": "Abu Dhabi skyline",
- "camera": "SONY SLT-A77V",
- "quality": 7.0,
- "relevance": 5.0
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.middleeastainews.com/p/abu-dhabi-crown-prince-chairs-first",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 8.0,
+ "relevance": 10.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://substackcdn.com/image/fetch/$s_!7n25!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c4ffe27-3a0c-4859-9cfd-b7e6006a9bf0_1280x720.png"
 }

@@ -1,13 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Google Campus, Mountain View, CA.jpg",
- "author": "Austin McKinley",
+ "title": "Mountain View (CA, USA), Charleston Road, Google-Fahrräder -- 2022 -- 2901.jpg",
+ "author": "Dietmar Rabich",
  "author_url": "",
- "license": "CC BY 3.0",
- "license_url": "https://creativecommons.org/licenses/by/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Google_Campus,_Mountain_View,_CA.jpg",
- "query": "Googleplex Mountain View",
- "camera": "Canon Canon EOS 6D",
+ "license": "CC BY-SA 4.0",
+ "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Fahrr%C3%A4der_--_2022_--_2901.jpg",
+ "query": "Googleplex headquarters Mountain View California",
+ "camera": "Canon Canon EOS 5D Mark IV",
  "quality": 8.0,
- "relevance": 9.0
+ "relevance": 5.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:Mountain_View_(CA,_USA),_Charleston_Road,_Google-Fahrr%C3%A4der_--_2022_--_2901.jpg"
 }
