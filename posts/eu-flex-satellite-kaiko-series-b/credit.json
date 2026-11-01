@@ -1,10 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Earth from Space- French Guiana ESA508412.jpg",
+ "title": "ESA’s photosynthesis mission ESA515347.jpg",
  "author": "European Space Agency",
  "author_url": "",
- "license": "Attribution",
- "license_url": "",
- "source_url": "https://commons.wikimedia.org/wiki/File:Earth_from_Space-_French_Guiana_ESA508412.jpg",
- "query": "Vega C rocket"
+ "license": "CC BY-SA 3.0 igo",
+ "license_url": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+ "source_url": "https://commons.wikimedia.org/wiki/File:ESA%E2%80%99s_photosynthesis_mission_ESA515347.jpg",
+ "query": "FLEX satellite ESA",
+ "camera": "",
+ "quality": 9.0,
+ "relevance": 10.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:ESA%E2%80%99s_photosynthesis_mission_ESA515347.jpg"
 }
