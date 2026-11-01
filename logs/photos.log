@@ -1,24 +1,26 @@
-07:24:15 33 posts need photos; doing up to 12
-07:26:02 search 'CNTXT AI headquarters UAE': The read operation timed out
-07:27:00 search 'Dubai skyline': The read operation timed out
-07:27:15 uae-the-uae-moves-from-digital-models-to-physical-ai-and | gave up after 180s; retry next run
-07:28:59 search 'San Francisco skyline': HTTP Error 500: Internal Server Error
-07:29:41 usa-the-us-builds-a-wall-around-its-hardware-supply-chai | Anduril BlueChip laptop | tried: [('source', 7.0, 10.0)]
-07:29:42 ok usa-the-us-builds-a-wall-around-its-hardware-supply-chai | cited source image | Lead image from techradar.com | Image from cited source
-07:31:53 search 'San Francisco skyline': The read operation timed out
-07:32:01 breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | Google Cloud infrastructure | tried: [('source', 6.0, 5.0), ('company', 8.0, 5.0)]
-07:32:02 ok breaking-alphabet-loses-500bn-as-the-1tn-ai-bill-comes-d | Googleplex headquarters Mountain View California | Mountain View (CA, USA), Charleston Road, Google-Fahrräder - | CC BY-SA 4.0
-07:32:35 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-07:32:35 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-07:33:06 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-07:33:06 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-07:33:52 search 'UK budget announcement 2026 John Healey': HTTP Error 500: Internal Server Error
-07:34:42 search '1 Horse Guards Road London': The read operation timed out
-07:35:02 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
-07:35:53 uae-abu-dhabi-ai-executive-council | Abu Dhabi Executive Council AI platform | tried: [('source', 8.0, 10.0)]
-07:35:54 ok uae-abu-dhabi-ai-executive-council | cited source image | Lead image from middleeastainews.com | Image from cited source
-07:36:38 search 'FLEX satellite ESA': The read operation timed out
-07:37:22 search 'FLuorescence Explorer satellite': The read operation timed out
-07:38:22 search 'Brussels European Quarter': The read operation timed out
-07:38:54 eu-flex-satellite-kaiko-series-b | gave up after 180s; retry next run
-07:38:54 time budget reached; the rest continue next run
+11:25:49 32 posts need photos; doing up to 12
+11:27:05 search 'CNTXT AI physical AI training facility': The read operation timed out
+11:27:51 search 'CNTXT AI office Dubai': The read operation timed out
+11:28:49 uae-the-uae-moves-from-digital-models-to-physical-ai-and | gave up after 180s; retry next run
+11:29:29 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+11:29:29 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+11:30:02 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+11:30:02 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+11:30:46 search 'MacBook Pro PROLED XDR Display touchscreen': The read operation timed out
+11:31:43 search 'Apple Park Cupertino headquarters': The read operation timed out
+11:31:49 october-2026-the-month-infrastructure-bills-came-due | gave up after 180s; retry next run
+11:31:50 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+11:31:52 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
+11:32:37 search 'OriginOS 7 Jovi smartphone': The read operation timed out
+11:33:21 search 'OriginOS 7 interface': The read operation timed out
+11:34:05 search 'Vivo Brasil headquarters Sao Paulo': The read operation timed out
+11:34:49 search 'Vivo Brazil office building': The read operation timed out
+11:34:49 latam-brazil-trades-tax-breaks-for-data-sovereignty | gave up after 180s; retry next run
+11:35:22 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+11:35:22 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+11:35:54 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
+11:35:54 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
+11:36:37 search 'HM Treasury budget announcement AI security package': The read operation timed out
+11:37:21 search 'UK government AI security funding budget': The read operation timed out
+11:37:49 breaking-uk-budget-2026-ai-security | gave up after 180s; retry next run
+11:37:49 time budget reached; the rest continue next run
