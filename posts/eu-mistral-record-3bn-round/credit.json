@@ -1,10 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Samsung Headquarters - Silicon Valley.jpg",
- "author": "Cristiano Tomás",
+ "provider": "euronews.com",
+ "title": "Lead image from euronews.com",
+ "author": "Euronews",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Samsung_Headquarters_-_Silicon_Valley.jpg",
- "query": "Samsung headquarters"
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.euronews.com/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 8.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://images.euronews.com/articles/stories/09/90/51/59/1200x675_cmsv2_64fc6db3-f040-5e86-a8b0-bbbd933c6a22-9905159.jpg"
 }

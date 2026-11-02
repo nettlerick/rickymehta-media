@@ -1,10 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Drone attacks and strikes in the UAE.webp",
- "author": "Wikideas1",
+ "provider": "al-monitor.com",
+ "title": "Lead image from al-monitor.com",
+ "author": "Reuters",
  "author_url": "",
- "license": "CC0",
- "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
- "source_url": "https://commons.wikimedia.org/wiki/File:Drone_attacks_and_strikes_in_the_UAE.webp",
- "query": "The UAE Iranian"
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.al-monitor.com/originals/2026/09/exclusive-uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Reuters",
+ "key": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-09/2026-09-11T090755Z_2_LYNXMPEM8A0NT_RTROPTP_3_IRAN-CRISIS-EMIRATES-AI.JPG?h=fff89ad5&itok=QYKw_hpK"
 }

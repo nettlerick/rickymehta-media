@@ -1,0 +1,17 @@
+{
+ "provider": "aljazeera.com:443",
+ "title": "Lead image from aljazeera.com:443",
+ "author": "Reuters",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.aljazeera.com:443/news/2026/7/21/french-parliament-passes-social-media-ban-for-under-15s",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Reuters",
+ "key": "https://www.aljazeera.com/wp-content/uploads/2026/07/reuters_6a5fc448-1784661064.jpg?resize=1920%2C1440"
+}
