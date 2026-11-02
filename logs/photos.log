@@ -1,85 +1,17 @@
-10:01:15 30 posts need photos; doing up to 60
-10:01:30 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-10:01:30 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-10:01:31 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-10:01:31 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-10:01:54 search openverse 'MacBook Pro OLED touchscreen 2026': The read operation timed out
-10:02:10 search openverse 'Apple Park Cupertino headquarters': The read operation timed out
-10:02:57 october-2026-the-month-infrastructure-bills-came-due | MacBook Pro with PROLED XDR Display | tried: [('press', 10.0, 7.0), ('press', 7.0, 7.0), ('press', 7.0, 7.0), ('press', 6.0, 2.0), ('source', 6.0, 2.0), ('source', 6.0, 2.0), ('company', 8.0, 5.0)]
-10:02:58 ok october-2026-the-month-infrastructure-bills-came-due | Apple Park Cupertino headquarters | Apple Headquarters in Cupertino.jpg | CC BY-SA 3.0
-10:02:59 source page https://tecnoblog.net/noticias/android-17-jovi-comeca-a-libe: HTTP Error 403: Forbidden
-10:03:00 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-10:03:02 source page https://tecnoblog.net/noticias/android-17-jovi-comeca-a-libe: HTTP Error 403: Forbidden
-10:03:02 source page https://www.finextra.com/pressarticle/111519/aci-worldwide-a: HTTP Error 403: Forbidden
-10:03:21 latam-brazil-trades-tax-breaks-for-data-sovereignty | OriginOS 7 | tried: [('source', 6.0, 2.0), ('source', 8.0, 2.0), ('region', 8.0, 2.0)]
-10:03:22 ok latam-brazil-trades-tax-breaks-for-data-sovereignty | São Paulo skyline | Ponte estaiada Octavio Frias - Sao Paulo.jpg | CC BY-SA 3.0
-10:03:23 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-10:03:23 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-10:03:23 source page https://www.itv.com/news/2026-10-28/chancellor-john-healey-r: The read operation timed out
-10:03:23 source page https://fvbb.com/ns/budget-26-frustrating-vct-tax-relief-abs: HTTP Error 403: Forbidden
-10:04:06 breaking-uk-budget-2026-ai-security | UK Budget AI security package | tried: [('source', 7.0, 5.0), ('source', 6.0, 2.0), ('company', 6.0, 2.0), ('company', 7.0, 2.0), ('company', 6.0, 2.0), ('company', 5.0, 2.0), ('region', 9.0, 5.0)]
-10:04:07 ok breaking-uk-budget-2026-ai-security | London skyline | Canary Wharf from Limehouse London June 2016 HDR.jpg | CC BY-SA 4.0
-10:04:45 uk-velocity-stablecoin-series-a | Velocity stablecoin settlement rails | tried: [('source', 8.0, 5.0), ('source', 6.0, 2.0), ('company', 6.0, 2.0), ('company', 8.0, 2.0), ('company', 8.0, 2.0), ('company', 6.0, 1.0), ('region', 8.0, 5.0)]
-10:04:47 ok uk-velocity-stablecoin-series-a | London skyline | City of London skyline from London City Hall - Sept 2015 - C | CC BY-SA 4.0
-10:05:03 uae-rethinks-5gw-ai-campus | Abu Dhabi 5GW AI campus | tried: [('source', 6.0, 7.0)]
-10:05:03 ok uae-rethinks-5gw-ai-campus | cited source image | Lead image from al-monitor.com | Image from cited source
-10:05:32 usa-apple-iphone-duo-foldable | iPhone Duo | tried: [('source', 6.0, 2.0), ('source', 6.0, 5.0), ('source', 6.0, 2.0), ('company', 8.0, 5.0)]
-10:05:34 ok usa-apple-iphone-duo-foldable | Apple Park Cupertino headquarters | Apple park cupertino 2019.jpg | CC BY-SA 3.0 de
-10:05:48 eu-mistral-record-3bn-round | Mistral AI enterprise AI platform | tried: [('source', 8.0, 7.0)]
-10:05:49 ok eu-mistral-record-3bn-round | cited source image | Lead image from euronews.com | Image from cited source
-10:05:50 source page https://tech.eu/2026/09/07/revolut-backer-molten-ventures-hi: HTTP Error 403: Forbidden
-10:05:50 source page https://tech.eu/2026/09/07/revolut-backer-molten-ventures-hi: HTTP Error 403: Forbidden
-10:06:20 uk-molten-growth-fund-first-close | Molten Ventures growth fund | tried: [('press', 6.0, 7.0), ('source', 8.0, 2.0), ('region', 8.0, 2.0)]
-10:06:21 ok uk-molten-growth-fund-first-close | London skyline | Canary Wharf Skyline 2, London UK - Oct 2012.jpg | CC BY-SA 3.0
-10:06:52 uae-e-and-core42-sovereign-gpus | Core42 Sovereign GPU Compute Platform | tried: [('source', 8.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 2.0, 2.0), ('region', 7.0, 2.0)]
-10:06:53 ok uae-e-and-core42-sovereign-gpus | Abu Dhabi skyline | Abu Dhabi night skyline (37001006072).jpg | CC BY-SA 2.0
-10:07:09 eu-france-under-15-social-media-ban | social media ban | tried: [('source', 6.0, 7.0)]
-10:07:10 ok eu-france-under-15-social-media-ban | cited source image | Lead image from aljazeera.com:443 | Image from cited source
-10:07:25 search commons 'Google Gemini 3.6 Flash': The read operation timed out
-10:08:10 usa-google-cuts-gemini-flash-prices | Gemini 3.6 Flash | tried: [('source', 6.0, 5.0), ('product', 2.0, 2.0), ('company', 6.0, 5.0), ('company', 6.0, 5.0), ('company', 6.0, 5.0), ('company', 6.0, 5.0), ('region', 8.0, 2.0)]
-10:08:11 ok usa-google-cuts-gemini-flash-prices | San Francisco skyline | San Francisco from Pier 7 September 2013 panorama edit.jpg | CC BY-SA 3.0
-10:08:35 uk-dsit-abolished-ai-joins-cabinet | None | tried: [('press', 2.0, 5.0), ('source', 2.0, 5.0), ('source', 2.0, 5.0), ('region', 8.0, 5.0)]
-10:08:36 ok uk-dsit-abolished-ai-joins-cabinet | City of London | 06 2023 King Charles Street, London IMG 7517.jpg | CC BY-SA 4.0
-10:09:05 uae-federal-ai-data-authority | Federal Authority for Artificial Intelligence and Data | tried: [('source', 8.0, 5.0), ('source', 8.0, 5.0), ('source', 6.0, 7.0)]
-10:09:05 ok uae-federal-ai-data-authority | cited source image | Lead image from middleeastainews.com | Image from cited source
-10:09:07 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
-10:09:07 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
-10:10:04 usa-washington-suspends-anthropic-fable-5 | Claude Fable 5 | tried: [('press', 2.0, 5.0), ('press', 1.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 5.0), ('source', 7.0, 5.0), ('company', 6.0, 2.0), ('company', 8.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 5.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0)]
-10:10:31 uk-london-tech-week-ai-chips | London Tech Week | tried: [('press', 2.0, 10.0), ('source', 6.0, 10.0), ('product', 8.0, 10.0)]
-10:10:32 ok uk-london-tech-week-ai-chips | London Tech Week conference | The Prime Minister Delivers Speech to Open London Tech Week  | CC BY 2.0
-10:10:49 uk-oqc-260m-series-c-quantum | Oxford Quantum Circuits quantum computer | tried: [('region', 8.0, 2.0)]
-10:10:50 ok uk-oqc-260m-series-c-quantum | London skyline | London Skyline from Waterloo Bridge, London, UK - Diliff.jpg | CC BY-SA 3.0
-10:11:13 eu-tech-sovereignty-package-data-centres | EU Tech Sovereignty Package | tried: [('press', 6.0, 10.0)]
-10:11:13 ok eu-tech-sovereignty-package-data-centres | official press image | EU Tech Sovereignty Package (official press image) | Official press image
-10:11:34 uae-core42-new-york-ai-compute | Lake Mariner data center | tried: [('press', 6.0, 5.0), ('region', 6.0, 2.0), ('region', 8.0, 2.0)]
-10:11:35 ok uae-core42-new-york-ai-compute | Dubai skyline | Boston skyline from East Boston November 2016 panorama 2.jpg | CC BY-SA 4.0
-10:12:04 usa-anthropic-ipo-filing-openai-bedrock | Anthropic S-1 IPO filing | tried: [('press', 7.0, 7.0), ('press', 1.0, 2.0), ('source', 3.0, 5.0), ('source', 2.0, 2.0), ('company', 6.0, 2.0), ('company', 8.0, 2.0), ('region', 9.0, 2.0)]
-10:12:05 ok usa-anthropic-ipo-filing-openai-bedrock | San Francisco skyline | Golden Gate Bridge and San Francisco skyline from Hawk Hill  | CC BY-SA 4.0
-10:12:19 source page https://wired-gov.net/wg/news.nsf/articles/Tech+Secretary+la: <urlopen error _ssl.c:993: The handshake operation timed out>
-10:12:20 source page https://wired-gov.net/wg/news.nsf/articles/Tech+Secretary+la: <urlopen error _ssl.c:993: The handshake operation timed out>
-10:12:53 uk-sovereign-ai-unit-500m | Sovereign AI unit | tried: [('source', 7.0, 2.0), ('company', 6.0, 2.0), ('company', 6.0, 5.0), ('company', 6.0, 2.0), ('company', 6.0, 5.0), ('region', 8.0, 5.0)]
-10:12:54 ok uk-sovereign-ai-unit-500m | London skyline | City of London skyline from London City Hall - Oct 2008.jpg | CC BY-SA 3.0
-10:12:55 source page https://openai.com/index/introducing-gpt-rosalind: HTTP Error 403: Forbidden
-10:12:56 source page https://openai.com/index/introducing-gpt-rosalind: HTTP Error 403: Forbidden
-10:13:26 usa-claude-opus-4-7-gpt-rosalind | Claude Opus 4.7 | tried: [('press', 6.0, 2.0), ('press', 1.0, 5.0), ('source', 6.0, 5.0), ('product', 7.0, 2.0), ('product', 8.0, 2.0), ('product', 6.0, 2.0), ('product', 8.0, 2.0), ('company', 7.0, 5.0)]
-10:13:28 ok usa-claude-opus-4-7-gpt-rosalind | Anthropic headquarters San Francisco | Secretary of State Peter Kyle visits Anthropic in San Franci | CC BY 2.0
-10:14:05 uae-dubai-ai-training-50000-staff | AI+ | tried: [('source', 9.0, 5.0), ('source', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 8.0, 5.0)]
-10:14:06 ok uae-dubai-ai-training-50000-staff | Dubai skyline | Dubai Skyline mit Burj Khalifa (18241030269).jpg | CC BY 2.0
-10:15:00 eu-age-verification-app-ready | EU age verification app | tried: [('press', 7.0, 2.0), ('source', 8.0, 5.0), ('product', 6.0, 5.0), ('product', 7.0, 7.0), ('product', 8.0, 5.0), ('product', 8.0, 7.0), ('company', 8.0, 5.0)]
-10:15:01 ok eu-age-verification-app-ready | European Commission Brussels | Belgique - Bruxelles - Schuman - Berlaymont - 01.jpg | CC BY-SA 4.0
-10:15:02 source page https://www.sec.gov/Archives/edgar/data/1045810/000104581026: HTTP Error 403: Forbidden
-10:15:02 source page https://www.sec.gov/Archives/edgar/data/1045810/000104581026: HTTP Error 403: Forbidden
-10:15:19 usa-meta-amd-deal-nvidia-record-stripe | AMD Instinct AI accelerator chip | tried: [('source', 6.0, 2.0), ('source', 6.0, 7.0)]
-10:15:19 ok usa-meta-amd-deal-nvidia-record-stripe | cited source image | Lead image from techcrunch.com | Image from cited source
-10:15:35 eu-multiverse-free-compressed-model | HyperNova 60B | tried: [('region', 8.0, 5.0)]
-10:15:36 ok eu-multiverse-free-compressed-model | Brussels European Quarter | Berlaymont building (DSCF7542-DSCF7548).jpg | CC BY 4.0
-10:15:53 uk-wayve-raises-1-2bn-driving-software | Wayve autonomous driving technology | tried: [('source', 8.0, 7.0)]
-10:15:53 ok uk-wayve-raises-1-2bn-driving-software | cited source image | Lead image from techcrunch.com | Image from cited source
-10:16:15 search commons 'xAI office building': The read operation timed out
-10:16:21 uk-grok-deepfakes-online-safety-act-test | Grok image generation | tried: [('source', 2.0, 2.0), ('source', 6.0, 9.0)]
-10:16:22 ok uk-grok-deepfakes-online-safety-act-test | cited source image | Lead image from aljazeera.com | Image from cited source
-10:16:24 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
-10:16:24 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
-10:16:25 eu-grok-retention-order-mistral-defence | Grok AI | tried: [('source', None, None)]
-10:16:41 usa-nvidia-rubin-alpamayo-chatgpt-health | ChatGPT Health | tried: [('source', 9.0, 5.0), ('source', 2.0, 2.0), ('source', 6.0, 5.0)]
-10:16:49 uae-falcon-h1r-7b-small-reasoning-model | Falcon H1R 7B | tried: [('source', 2.0, 10.0), ('source', 7.0, 10.0)]
+11:24:23 5 posts need photos; doing up to 12
+11:24:46 search openverse 'OpenAI enterprise AI platform interface': The read operation timed out
+11:25:01 search openverse 'OpenAI agentic AI dashboard': The read operation timed out
+11:25:24 breaking-openai-moves-from-chatbot-to-sovereign-operatin | OpenAI sovereign AI infrastructure platform | tried: [('source', 4.0, 5.0), ('source', 6.0, 8.0)]
+11:25:24 ok breaking-openai-moves-from-chatbot-to-sovereign-operatin | cited source image | Lead image from thenextweb.com | Image from cited source
+11:25:29 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
+11:25:29 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
+11:26:21 usa-washington-suspends-anthropic-fable-5 | Claude Fable 5 | tried: [('press', 2.0, 2.0), ('press', 1.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 5.0), ('source', 7.0, 5.0), ('company', 8.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 5.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0)]
+11:26:27 library usa-washington-suspends-anthropic-fable-5 | USA | SanFrancisco from TwinPeaks dusk MC.jpg
+11:26:30 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
+11:26:31 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
+11:27:09 eu-grok-retention-order-mistral-defence | Grok AI | tried: [('source', None, None), ('company', 8.0, 2.0), ('company', 8.0, 2.0), ('company', 8.0, 2.0), ('company', 7.0, 2.0), ('region', 8.0, 2.0)]
+11:27:10 ok eu-grok-retention-order-mistral-defence | Brussels European Quarter | Rue de la Loi, European Quarter in Brussels during civil twi | CC BY 4.0
+11:27:36 usa-nvidia-rubin-alpamayo-chatgpt-health | ChatGPT Health | tried: [('source', 9.0, 5.0), ('source', 2.0, 2.0), ('source', 6.0, 5.0), ('company', 7.0, 5.0)]
+11:27:37 ok usa-nvidia-rubin-alpamayo-chatgpt-health | OpenAI headquarters San Francisco | 1515 Third Street.jpg | CC BY 4.0
+11:27:58 uae-falcon-h1r-7b-small-reasoning-model | Falcon H1R 7B | tried: [('source', 2.0, 10.0), ('source', 7.0, 10.0), ('region', 7.0, 5.0)]
+11:27:58 ok uae-falcon-h1r-7b-small-reasoning-model | Abu Dhabi skyline | Abu Dhabi Skyline from Breakwaters Marina.jpg | CC BY-SA 3.0
