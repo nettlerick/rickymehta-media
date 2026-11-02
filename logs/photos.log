@@ -1,17 +1,8 @@
-11:24:23 5 posts need photos; doing up to 12
-11:24:46 search openverse 'OpenAI enterprise AI platform interface': The read operation timed out
-11:25:01 search openverse 'OpenAI agentic AI dashboard': The read operation timed out
-11:25:24 breaking-openai-moves-from-chatbot-to-sovereign-operatin | OpenAI sovereign AI infrastructure platform | tried: [('source', 4.0, 5.0), ('source', 6.0, 8.0)]
-11:25:24 ok breaking-openai-moves-from-chatbot-to-sovereign-operatin | cited source image | Lead image from thenextweb.com | Image from cited source
-11:25:29 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
-11:25:29 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
-11:26:21 usa-washington-suspends-anthropic-fable-5 | Claude Fable 5 | tried: [('press', 2.0, 2.0), ('press', 1.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 5.0), ('source', 7.0, 5.0), ('company', 8.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 5.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0)]
-11:26:27 library usa-washington-suspends-anthropic-fable-5 | USA | SanFrancisco from TwinPeaks dusk MC.jpg
-11:26:30 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
-11:26:31 source page https://btw.media/all/it-infrastructure/eu-extends-retention: HTTP Error 404: Not Found
-11:27:09 eu-grok-retention-order-mistral-defence | Grok AI | tried: [('source', None, None), ('company', 8.0, 2.0), ('company', 8.0, 2.0), ('company', 8.0, 2.0), ('company', 7.0, 2.0), ('region', 8.0, 2.0)]
-11:27:10 ok eu-grok-retention-order-mistral-defence | Brussels European Quarter | Rue de la Loi, European Quarter in Brussels during civil twi | CC BY 4.0
-11:27:36 usa-nvidia-rubin-alpamayo-chatgpt-health | ChatGPT Health | tried: [('source', 9.0, 5.0), ('source', 2.0, 2.0), ('source', 6.0, 5.0), ('company', 7.0, 5.0)]
-11:27:37 ok usa-nvidia-rubin-alpamayo-chatgpt-health | OpenAI headquarters San Francisco | 1515 Third Street.jpg | CC BY 4.0
-11:27:58 uae-falcon-h1r-7b-small-reasoning-model | Falcon H1R 7B | tried: [('source', 2.0, 10.0), ('source', 7.0, 10.0), ('region', 7.0, 5.0)]
-11:27:58 ok uae-falcon-h1r-7b-small-reasoning-model | Abu Dhabi skyline | Abu Dhabi Skyline from Breakwaters Marina.jpg | CC BY-SA 3.0
+15:25:00 2 posts need photos; doing up to 12
+15:25:26 search openverse 'Danfoss store control cooling system': The read operation timed out
+15:25:42 search openverse 'Danfoss AK-CC refrigeration controller': The read operation timed out
+15:26:04 breaking-european-food-security-is-being-tested-by-a-the | Danfoss supermarket refrigeration control system | tried: [('source', 6.0, 5.0), ('source', 6.0, 5.0), ('source', 6.0, 5.0), ('source', 6.0, 7.0)]
+15:26:05 ok breaking-european-food-security-is-being-tested-by-a-the | cited source image | Lead image from theverge.com | Image from cited source
+15:26:06 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
+15:26:07 source page https://letsdatascience.com/news/apple-unveils-gemini-powere: HTTP Error 403: Forbidden
+15:27:09 usa-washington-suspends-anthropic-fable-5 | Claude Fable 5 | tried: [('press', 2.0, 5.0), ('press', 1.0, 2.0), ('source', 7.0, 5.0), ('source', 6.0, 5.0), ('source', 7.0, 5.0), ('company', 8.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0)]
