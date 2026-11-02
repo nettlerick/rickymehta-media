@@ -1,0 +1,17 @@
+{
+ "provider": "aljazeera.com",
+ "title": "Lead image from aljazeera.com",
+ "author": "Al Jazeera",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.aljazeera.com/news/2026/1/9/elon-musks-ai-bot-grok-limits-image-generation-amid-deepfakes-backlash",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 9.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://www.aljazeera.com/wp-content/uploads/2026/01/afp_69610930cd73-1767967024.jpg?resize=1920%2C1440"
+}
