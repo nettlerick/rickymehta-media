@@ -1,5 +1,7 @@
-11:25:39 1 posts need photos; doing up to 12
-11:25:40 source page https://tecnoblog.net/noticias/mercado-bitcoin-pode-ter-perd: HTTP Error 403: Forbidden
-11:25:40 source page https://tecnoblog.net/noticias/mercado-bitcoin-pode-ter-perd: HTTP Error 403: Forbidden
-11:27:00 latam-argentina-offers-the-wild-west-for-ai-data-centres | AI data centre | tried: [('source', 7.0, 2.0), ('source', 2.0, 5.0), ('source', 8.0, 2.0), ('company', 6.0, 2.0), ('company', 8.0, 5.0)]
-11:27:02 ok latam-argentina-offers-the-wild-west-for-ai-data-centres | Casa Rosada Buenos Aires aerial view | Vista aérea de Plaza de Mayo 02.jpg | CC BY-SA 4.0
+15:28:04 1 posts need photos; doing up to 12
+15:29:14 search openverse 'San Francisco skyline': The read operation timed out
+15:29:28 search openverse 'Silicon Valley': The read operation timed out
+15:30:43 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:30:45 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
+15:31:04 usa-apple-meets-the-ai-memory-wall | gave up after 180s
+15:31:04 library usa-apple-meets-the-ai-memory-wall | USA | San Francisco Panorama from Twin Peaks 2013.jpg
