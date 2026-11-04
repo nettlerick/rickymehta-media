@@ -1,12 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "San Francisco Panorama from Twin Peaks 2013.jpg",
- "author": "Tuxyso",
+ "title": "San Jose and Silicon Valley Skyline Oct 2017.jpg",
+ "author": "Tom Pavel from San Jose, USA",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:San_Francisco_Panorama_from_Twin_Peaks_2013.jpg",
- "library": true,
- "key": "library/USA/04.webp",
- "query": "USA library"
+ "license": "CC BY 2.0",
+ "license_url": "https://creativecommons.org/licenses/by/2.0",
+ "source_url": "https://commons.wikimedia.org/wiki/File:San_Jose_and_Silicon_Valley_Skyline_Oct_2017.jpg",
+ "query": "Silicon Valley",
+ "camera": "NIKON CORPORATION NIKON D7100",
+ "quality": 7.0,
+ "relevance": 5.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:San_Jose_and_Silicon_Valley_Skyline_Oct_2017.jpg"
 }
