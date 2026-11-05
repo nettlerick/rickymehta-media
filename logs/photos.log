@@ -1,5 +1,10 @@
-07:24:38 1 posts need photos; doing up to 12
-07:25:16 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
-07:25:17 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
-07:25:18 breaking-moonshot-ai-breaks-the-open-weights-ceiling-wit | Kimi K3.1 Pro | tried: [('source', None, None), ('source', 8.0, 5.0), ('source', 8.0, 2.0), ('source', None, None), ('region', 8.0, 2.0)]
-07:25:19 ok breaking-moonshot-ai-breaks-the-open-weights-ceiling-wit | Shenzhen skyline | Commercial area of futian to east2020.jpg | CC BY-SA 4.0
+11:27:29 1 posts need photos; doing up to 12
+11:28:07 search openverse 'European Commission headquarters Brussels': The read operation timed out
+11:28:22 search openverse 'Europa building Brussels': The read operation timed out
+11:28:42 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+11:28:43 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
+11:28:49 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+11:28:50 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
+11:29:02 gemini gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+11:29:35 eu-europe-seeds-its-chip-designers-and-scales-its-batter | EU Chip Design Platform | tried: [('source', 6.0, 5.0), ('source', 8.0, 2.0), ('source', 9.0, 5.0), ('source', 2.0, 2.0), ('company', 8.0, 2.0), ('company', 6.0, 5.0), ('company', 7.0, 2.0), ('company', 8.0, 2.0), ('region', 8.0, 5.0)]
+11:29:36 ok eu-europe-seeds-its-chip-designers-and-scales-its-batter | Brussels European Quarter | Luxembourg Kirchberg A De Gasperi 01.jpg | CC BY-SA 3.0
