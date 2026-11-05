@@ -1,10 +1,19 @@
-11:27:29 1 posts need photos; doing up to 12
-11:28:07 search openverse 'European Commission headquarters Brussels': The read operation timed out
-11:28:22 search openverse 'Europa building Brussels': The read operation timed out
-11:28:42 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
-11:28:43 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
-11:28:49 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
-11:28:50 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
-11:29:02 gemini gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
-11:29:35 eu-europe-seeds-its-chip-designers-and-scales-its-batter | EU Chip Design Platform | tried: [('source', 6.0, 5.0), ('source', 8.0, 2.0), ('source', 9.0, 5.0), ('source', 2.0, 2.0), ('company', 8.0, 2.0), ('company', 6.0, 5.0), ('company', 7.0, 2.0), ('company', 8.0, 2.0), ('region', 8.0, 5.0)]
-11:29:36 ok eu-europe-seeds-its-chip-designers-and-scales-its-batter | Brussels European Quarter | Luxembourg Kirchberg A De Gasperi 01.jpg | CC BY-SA 3.0
+15:26:15 2 posts need photos; doing up to 12
+15:27:21 search openverse 'Shanghai Pudong skyline': The read operation timed out
+15:27:27 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:27:27 vision gemini-3-flash-preview: HTTP Error 429: Too Many Requests
+15:28:09 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:28:09 vision gemini-3-flash-preview: HTTP Error 429: Too Many Requests
+15:28:46 gemini gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:28:46 gemini gemini-3-flash-preview: HTTP Error 429: Too Many Requests
+15:28:49 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:28:51 vision gemini-3-flash-preview: HTTP Error 429: Too Many Requests
+15:28:53 china-huawei-drops-x86-for-desktops-as-tencent-releases | Huawei Qingyun HM650 desktop | tried: [('source', 8.0, 5.0), ('source', 2.0, 5.0), ('source', 4.0, 5.0), ('source', None, None), ('region', 8.0, 5.0)]
+15:28:54 ok china-huawei-drops-x86-for-desktops-as-tencent-releases | Shenzhen skyline | The panorama of Futian Shenzhen.jpg | CC BY-SA 4.0
+15:28:56 source page https://www.finextra.com/newsarticle/48706/early-revolut-emp: HTTP Error 403: Forbidden
+15:28:56 source page https://www.finextra.com/newsarticle/48706/early-revolut-emp: HTTP Error 403: Forbidden
+15:29:24 search openverse 'Revolut headquarters London': The read operation timed out
+15:29:36 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+15:29:36 vision gemini-3-flash-preview: HTTP Error 429: Too Many Requests
+15:30:05 breaking-revolut-hits-a-115bn-valuation-and-flips-the-ai | Revolut banking app | tried: [('source', 6.0, 2.0), ('source', 6.0, 2.0), ('source', 8.0, 5.0), ('region', 8.0, 2.0)]
+15:30:06 ok breaking-revolut-hits-a-115bn-valuation-and-flips-the-ai | City of London | City from One Bishops Square.jpg | CC BY-SA 4.0
