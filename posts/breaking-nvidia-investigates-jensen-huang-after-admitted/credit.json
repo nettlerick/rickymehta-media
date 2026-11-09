@@ -1,0 +1,17 @@
+{
+ "provider": "cnbc.com",
+ "title": "Lead image from cnbc.com",
+ "author": "Getty Images",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 8.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Getty Images",
+ "key": "https://image.cnbcfm.com/api/v1/image/108447194-1792682505441-108447194-1792682412759-gettyimages-2301328017-2s4a6117_3tcndrih.jpg?v=1792682514&w=1920&h=1080"
+}
