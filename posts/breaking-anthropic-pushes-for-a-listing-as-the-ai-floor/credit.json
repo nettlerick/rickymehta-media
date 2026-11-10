@@ -1,0 +1,17 @@
+{
+ "provider": "cnbc.com",
+ "title": "Lead image from cnbc.com",
+ "author": "cnbc.com",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.cnbc.com/2026/11/09/anthropic-ipo-ai-trade-jim-cramer.html",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://image.cnbcfm.com/api/v1/image/108465626-17930469612026-10-26t203523z_1584282207_rc28boagerd4_rtrmadp_0_anthropic-ipo.jpeg?v=1793046988&w=1920&h=1080"
+}
