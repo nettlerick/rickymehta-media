@@ -1,3 +1,6 @@
-11:25:23 1 posts need photos; doing up to 12
-11:26:50 usa-meta-swaps-its-infrastructure-architect-for-an-aws-b | Ring Always Home Cam | tried: [('source', 6.0, 2.0), ('source', 6.0, 2.0), ('source', 8.0, 2.0), ('product', 6.0, 1.0), ('product', 5.0, 1.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 3.0, 2.0)]
-11:26:50 library usa-meta-swaps-its-infrastructure-architect-for-an-aws-b | USA | Painted Ladies San Francisco January 2013 panorama 2.jpg
+15:25:15 1 posts need photos; doing up to 12
+15:25:32 search openverse 'Ring Always Home Cam drone': HTTP Error 504: Gateway Timeout
+15:26:10 search openverse 'San Francisco skyline': The read operation timed out
+15:27:13 vision gemini-flash-lite-latest: The read operation timed out
+15:27:15 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
+15:28:04 usa-meta-swaps-its-infrastructure-architect-for-an-aws-b | Ring Always Home Cam | tried: [('source', 6.0, 2.0), ('source', 6.0, 2.0), ('source', 8.0, 2.0), ('product', 6.0, 1.0), ('product', 5.0, 1.0), ('region', 5.0, 2.0), ('region', 6.0, 2.0), ('region', 6.0, 2.0), ('region', 3.0, 2.0)]
