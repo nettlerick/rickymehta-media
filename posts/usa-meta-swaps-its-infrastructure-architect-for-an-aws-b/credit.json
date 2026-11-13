@@ -1,12 +1,17 @@
 {
- "provider": "Wikimedia Commons",
- "title": "Painted Ladies San Francisco January 2013 panorama 2.jpg",
- "author": "King of Hearts",
+ "provider": "cnbc.com",
+ "title": "Lead image from cnbc.com",
+ "author": "Getty Images",
  "author_url": "",
- "license": "CC BY-SA 3.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
- "library": true,
- "key": "library/USA/01.webp",
- "query": "USA library"
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.cnbc.com/2026/11/11/meta-infrastructure-departure-aws-cloud.html",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 8.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Getty Images",
+ "key": "https://image.cnbcfm.com/api/v1/image/108549222-1794421836487-gettyimages-2267715551-ARM_EVERYWHERE.jpeg?v=1794421856&w=1920&h=1080"
 }
