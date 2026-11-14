@@ -1,0 +1,17 @@
+{
+ "provider": "thenationalnews.com",
+ "title": "Lead image from thenationalnews.com",
+ "author": "Reuters",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.thenationalnews.com/future/technology/2026/11/14/tesla-invites-select-customers-to-order-their-own-driverless-cybercab/",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 10.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Reuters",
+ "key": "https://www.thenationalnews.com/resizer/v2/HVNAQCCZEJEVI2LOJ4U2LOQ7CU.jpg?auth=bdc05e8a6f7942f317c595fdc035f34aa3e947f287a57f32eb5958c8c18efa5a&focal=2661%2C1793&width=1200&height=630"
+}
