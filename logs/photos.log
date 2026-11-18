@@ -1,7 +1,9 @@
-07:25:39 2 posts need photos; doing up to 12
-07:25:53 search openverse 'Al Maktoum International Airport construction rendering': HTTP Error 500: Internal Server Error
-07:26:42 search openverse 'Dubai skyline': The read operation timed out
-07:26:49 uae-scaling-the-foundations-of-flight-and-frontier-safet | Al Maktoum International Airport | tried: [('source', 6.0, 2.0), ('source', 6.0, 7.0)]
-07:26:49 ok uae-scaling-the-foundations-of-flight-and-frontier-safet | cited source image | Lead image from thenationalnews.com | Image from cited source
-07:27:17 breaking-nvidia-chooses-institutional-stability-over-fou | Nvidia AI chip | tried: [('press', 6.0, 7.0), ('source', 8.0, 7.0), ('source', 7.0, 5.0), ('source', 6.0, 7.0)]
-07:27:17 ok breaking-nvidia-chooses-institutional-stability-over-fou | cited source image | Lead image from bbc.co.uk | Image from cited source
+11:26:48 1 posts need photos; doing up to 12
+11:26:49 source page https://tecnoblog.net/noticias/meta-lanca-achados-app-para-c: HTTP Error 403: Forbidden
+11:26:49 source page https://tecnoblog.net/noticias/cade-deve-abrir-processo-cont: HTTP Error 403: Forbidden
+11:26:50 source page https://tecnoblog.net/noticias/meta-lanca-achados-app-para-c: HTTP Error 403: Forbidden
+11:26:50 source page https://tecnoblog.net/noticias/cade-deve-abrir-processo-cont: HTTP Error 403: Forbidden
+11:27:10 search openverse 'iPhone near field communication chip': The read operation timed out
+11:27:25 search openverse 'Apple Park Cupertino headquarters': The read operation timed out
+11:27:45 latam-brazil-s-venture-resilience-and-the-fight-for-the | iPhone NFC chip | tried: [('source', 6.0, 2.0), ('source', 8.0, 2.0), ('company', 3.0, 7.0), ('company', 8.0, 5.0)]
+11:27:45 ok latam-brazil-s-venture-resilience-and-the-fight-for-the | Apple Inc corporate headquarters | Apple Campus One Infinite Loop Sign.jpg | CC BY-SA 3.0
