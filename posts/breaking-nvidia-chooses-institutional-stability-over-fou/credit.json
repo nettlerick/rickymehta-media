@@ -1,0 +1,17 @@
+{
+ "provider": "bbc.co.uk",
+ "title": "Lead image from bbc.co.uk",
+ "author": "Getty Images",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 7.0,
+ "press": "",
+ "source_image": true,
+ "agency": "Getty Images",
+ "key": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+}
