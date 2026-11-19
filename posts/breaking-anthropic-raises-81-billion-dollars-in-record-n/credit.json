@@ -1,0 +1,17 @@
+{
+ "provider": "anthropic.com",
+ "title": "Anthropic IPO (official press image)",
+ "author": "Anthropic",
+ "author_url": "",
+ "license": "Official press image",
+ "license_url": "",
+ "source_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+ "query": "official press image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 10.0,
+ "press": true,
+ "source_image": "",
+ "agency": "",
+ "key": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg"
+}
