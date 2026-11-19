@@ -1,5 +1,3 @@
-07:25:14 1 posts need photos; doing up to 12
-07:25:19 source page https://www.scmp.com/tech/big-tech/article/3375005/anthropic: HTTP Error 403: Forbidden
-07:25:19 source page https://www.scmp.com/tech/big-tech/article/3375005/anthropic: HTTP Error 403: Forbidden
-07:25:55 breaking-anthropic-raises-81-billion-dollars-in-record-n | Anthropic IPO | tried: [('press', 6.0, 10.0)]
-07:25:55 ok breaking-anthropic-raises-81-billion-dollars-in-record-n | official press image | Anthropic IPO (official press image) | Official press image
+11:26:01 1 posts need photos; doing up to 12
+11:26:54 uk-rockstar-s-billion-dollar-masterpiece-and-the-nhs-loc | Grand Theft Auto VI | tried: [('source', 2.0, 5.0), ('source', 6.0, 2.0), ('source', 8.0, 2.0), ('region', 6.0, 2.0), ('region', None, None), ('region', 8.0, 2.0)]
+11:26:55 ok uk-rockstar-s-billion-dollar-masterpiece-and-the-nhs-loc | City of London | London Thames Sunset panorama - Feb 2008.jpg | CC BY 3.0
