@@ -1,1 +1,7 @@
-15:24:54 0 posts need photos; doing up to 12
+19:25:50 1 posts need photos; doing up to 12
+19:26:12 search openverse 'Apple iPhone': The read operation timed out
+19:26:27 search openverse 'Apple iPhone smartphone': The read operation timed out
+19:27:52 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+19:27:54 vision gemini-3-flash-preview: 'NoneType' object has no attribute 'group'
+19:27:58 breaking-uk-tribunal-forces-disclosure-of-secret-apple-e | iPhone | tried: [('press', 6.0, 7.0), ('source', 6.0, 5.0), ('source', 6.0, 5.0), ('product', 7.0, 5.0), ('company', 6.0, 5.0), ('company', 9.0, 5.0)]
+19:27:59 ok breaking-uk-tribunal-forces-disclosure-of-secret-apple-e | Apple Park Cupertino headquarters | Aerial view of Apple Park.jpg | CC BY-SA 4.0
