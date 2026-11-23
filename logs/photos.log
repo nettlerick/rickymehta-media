@@ -1,1 +1,5 @@
-19:24:10 0 posts need photos; doing up to 12
+07:25:50 1 posts need photos; doing up to 12
+07:25:51 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+07:25:51 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+07:26:37 breaking-the-109-billion-exit-anthropic-and-the-end-of-t | Claude | tried: [('source', 6.0, 2.0), ('source', 7.0, 2.0), ('source', 6.0, 5.0), ('product', 7.0, 5.0), ('product', 6.0, 5.0), ('product', 8.0, 2.0), ('product', 6.0, 2.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', None, None), ('region', None, None)]
+07:26:37 library breaking-the-109-billion-exit-anthropic-and-the-end-of-t | USA | San Francisco Panorama from Twin Peaks 2013.jpg
