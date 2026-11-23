@@ -1,6 +1,10 @@
-15:23:15 1 posts need photos; doing up to 12
-15:23:18 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
-15:23:20 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
-15:24:03 search openverse 'San Francisco skyline': HTTP Error 504: Gateway Timeout
-15:24:15 search openverse 'Silicon Valley': HTTP Error 504: Gateway Timeout
-15:25:31 breaking-the-109-billion-exit-anthropic-and-the-end-of-t | Claude AI | tried: [('source', 6.0, 5.0), ('source', 7.0, 2.0), ('source', 2.0, 2.0), ('product', 7.0, 5.0), ('product', 6.0, 5.0), ('product', 8.0, 2.0), ('product', 6.0, 1.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 6.0, 2.0), ('region', 4.0, 5.0)]
+19:23:14 1 posts need photos; doing up to 12
+19:23:15 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+19:23:15 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+19:23:49 search openverse 'Anthropic office building': HTTP Error 504: Gateway Timeout
+19:24:05 vision gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+19:24:06 vision gemini-3-flash-preview: HTTP Error 503: Service Unavailable
+19:24:24 gemini gemini-flash-lite-latest: HTTP Error 503: Service Unavailable
+19:25:24 gemini gemini-3.5-flash-lite: The read operation timed out
+19:25:26 breaking-the-109-billion-exit-anthropic-and-the-end-of-t | Claude | tried: [('source', 6.0, 5.0), ('source', 6.0, 2.0), ('source', 6.0, 5.0), ('product', 6.0, 1.0), ('product', 6.0, 2.0), ('product', 6.0, 1.0), ('product', 6.0, 2.0), ('region', 8.0, 2.0)]
+19:25:27 ok breaking-the-109-billion-exit-anthropic-and-the-end-of-t | San Francisco skyline | Painted Ladies San Francisco January 2013 panorama 2.jpg | CC BY-SA 3.0
