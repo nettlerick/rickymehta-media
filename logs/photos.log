@@ -1,12 +1,6 @@
-11:26:05 3 posts need photos; doing up to 12
-11:26:06 source page https://www.scmp.com/business/china-business/article/3375442: HTTP Error 403: Forbidden
-11:26:06 source page https://www.scmp.com/business/china-business/article/3375442: HTTP Error 403: Forbidden
-11:26:19 china-china-shifts-from-chatbots-to-hardware-and-hard-ma | GLM-5.4 | tried: [('source', 5.0, 7.0)]
-11:26:19 ok china-china-shifts-from-chatbots-to-hardware-and-hard-ma | cited source image | Lead image from technode.com | Image from cited source
-11:26:22 source page https://www.scmp.com/tech/tech-war/article/3375427/us-treasu: HTTP Error 403: Forbidden
-11:26:23 source page https://www.scmp.com/tech/tech-war/article/3375427/us-treasu: HTTP Error 403: Forbidden
-11:26:45 breaking-spacex-builds-a-44-billion-dollar-compute-fortr | SpaceX GPU financing cluster | tried: [('source', 6.0, 2.0), ('source', 8.0, 2.0), ('company', 8.0, 5.0)]
-11:26:46 ok breaking-spacex-builds-a-44-billion-dollar-compute-fortr | SpaceX headquarters Hawthorne California | The SpaceX Factory.jpg | CC BY 2.0
-11:26:47 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
-11:26:47 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
-11:27:28 breaking-the-109-billion-exit-anthropic-and-the-end-of-t | Claude AI | tried: [('source', 6.0, 5.0), ('source', 6.0, 2.0), ('source', 2.0, 2.0), ('product', 7.0, 5.0), ('product', 6.0, 5.0), ('product', 8.0, 2.0), ('product', 6.0, 2.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 6.0, 2.0), ('region', 4.0, 5.0)]
+15:23:15 1 posts need photos; doing up to 12
+15:23:18 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+15:23:20 source page https://www.scmp.com/business/markets/article/3375424/new-19: HTTP Error 403: Forbidden
+15:24:03 search openverse 'San Francisco skyline': HTTP Error 504: Gateway Timeout
+15:24:15 search openverse 'Silicon Valley': HTTP Error 504: Gateway Timeout
+15:25:31 breaking-the-109-billion-exit-anthropic-and-the-end-of-t | Claude AI | tried: [('source', 6.0, 5.0), ('source', 7.0, 2.0), ('source', 2.0, 2.0), ('product', 7.0, 5.0), ('product', 6.0, 5.0), ('product', 8.0, 2.0), ('product', 6.0, 1.0), ('region', 6.0, 5.0), ('region', 6.0, 5.0), ('region', 6.0, 2.0), ('region', 4.0, 5.0)]
