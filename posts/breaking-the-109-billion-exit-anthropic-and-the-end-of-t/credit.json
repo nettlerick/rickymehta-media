@@ -1,12 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "San Francisco Panorama from Twin Peaks 2013.jpg",
- "author": "Tuxyso",
+ "title": "Painted Ladies San Francisco January 2013 panorama 2.jpg",
+ "author": "King of Hearts",
  "author_url": "",
  "license": "CC BY-SA 3.0",
  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:San_Francisco_Panorama_from_Twin_Peaks_2013.jpg",
- "library": true,
- "key": "library/USA/04.webp",
- "query": "USA library"
+ "source_url": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+ "query": "San Francisco skyline",
+ "camera": "NIKON CORPORATION NIKON D5100",
+ "quality": 8.0,
+ "relevance": 2.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg"
 }
