@@ -1,12 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Frankfurt Skyline 2022 bei Nacht.jpg",
- "author": "Jörg Braukmann",
+ "title": "Artificial Archipelagos, Dubai, United Arab Emirates ISS022-E-024940 lrg.jpg",
+ "author": "Member of the Expedition 22 crew.",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Frankfurt_Skyline_2022_bei_Nacht.jpg",
- "library": true,
- "key": "library/UAE/05.webp",
- "query": "UAE library"
+ "license": "Public domain",
+ "license_url": "",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Artificial_Archipelagos,_Dubai,_United_Arab_Emirates_ISS022-E-024940_lrg.jpg",
+ "query": "United Arab Emirates government buildings",
+ "camera": "NIKON CORPORATION NIKON D2Xs",
+ "quality": 9.0,
+ "relevance": 5.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:Artificial_Archipelagos,_Dubai,_United_Arab_Emirates_ISS022-E-024940_lrg.jpg"
 }
