@@ -1,12 +1,17 @@
 {
  "provider": "Wikimedia Commons",
- "title": "Pano of Golden Gate Bridge and San Francisco from Twin Peaks 1 1.jpg",
- "author": "Brocken Inaglory",
+ "title": "Air Force establishes Pentagon-based AFSPC vice commander position (1).jpg",
+ "author": "U.S. Air Force",
  "author_url": "",
- "license": "CC BY-SA 4.0",
- "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
- "source_url": "https://commons.wikimedia.org/wiki/File:Pano_of_Golden_Gate_Bridge_and_San_Francisco_from_Twin_Peaks_1_1.jpg",
- "library": true,
- "key": "library/USA/02.webp",
- "query": "USA library"
+ "license": "Public domain",
+ "license_url": "",
+ "source_url": "https://commons.wikimedia.org/wiki/File:Air_Force_establishes_Pentagon-based_AFSPC_vice_commander_position_(1).jpg",
+ "query": "US Air Force headquarters Pentagon",
+ "camera": "NIKON CORPORATION NIKON D5",
+ "quality": 8.0,
+ "relevance": 5.0,
+ "press": "",
+ "source_image": "",
+ "agency": "",
+ "key": "https://commons.wikimedia.org/wiki/File:Air_Force_establishes_Pentagon-based_AFSPC_vice_commander_position_(1).jpg"
 }
