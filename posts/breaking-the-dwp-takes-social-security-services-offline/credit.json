@@ -1,0 +1,17 @@
+{
+ "provider": "theregister.com",
+ "title": "Lead image from theregister.com",
+ "author": "theregister.com",
+ "author_url": "",
+ "license": "Image from cited source",
+ "license_url": "",
+ "source_url": "https://www.theregister.com/security/2026/11/27/british-social-security-system-techies-yank-services-offline-following-cyber-incident/5312522",
+ "query": "cited source image",
+ "camera": "",
+ "quality": 6.0,
+ "relevance": 10.0,
+ "press": "",
+ "source_image": true,
+ "agency": "",
+ "key": "https://image.theregister.com/249560.jpg?imageId=249560&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+}
